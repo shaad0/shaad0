@@ -40,9 +40,7 @@
     <img src="./express-white-bg.png" alt="express" width="auto" height="20"/> 
 </a> 
 
-<a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-</a>
+
 
 
 <a href="https://www.mongodb.com/" target="_blank"> 
